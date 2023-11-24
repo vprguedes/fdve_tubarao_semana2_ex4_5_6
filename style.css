@@ -1,0 +1,13 @@
+body {
+    background-color:hsl(from rgb(0, 153, 255) h s l);
+}
+
+h1 {
+    font-family: Verdana;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
